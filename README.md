@@ -2,6 +2,13 @@
 
 This project implements various signal processing and system analysis tools, focusing on linear difference equations and their solutions. It provides functionality for analyzing different types of input signals and visualizing their responses.
 
+## Team Members
+
+| Name | Student ID | Role |
+|------|------------|------|
+| Nguyen Tuan Anh | 20233258 | Developer |
+| Dao Thi Viet Trinh | 20233676 | Developer |
+
 ## Features
 
 - Implementation of various input signals:
